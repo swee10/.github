@@ -8,6 +8,3 @@ Lorem impsum
 ### Relevant screenshots:
 - Screenshot 1
 - Screenshot 2
-
-
-
